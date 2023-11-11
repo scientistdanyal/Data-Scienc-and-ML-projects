@@ -13,6 +13,7 @@
     <p>I've undertaken a variety of data science and machine learning projects, covering a wide range of topics. Some of the projects you can find in this repository include:</p>
     <ul>
         <li><a href="https://github.com/yalgar0/Data-Scienc-and-ML-dice-camp-/blob/master/simple-linear-regression-for-beginners.ipynb">Project 1: Simple Linear Regression for Beginners</a>: An exploration into predictive modeling, where I built a model to forecast future sales based on historical data.</li>
+        <li><a href="[https://github.com/yalgar0/Data-Scienc-and-ML-dice-camp-/blob/master/simple-linear-regression-for-beginners.ipynb](https://github.com/yalgar0/Data-Scienc-and-ML-dice-camp-/tree/master/Price%20Prediction%20project%20-regression/project)">Project 2: Project related to price prediction using Polynomial Regression.</li>
     </ul>
     <p>Each project comes with its own dedicated directory, containing code, data, and documentation to help you understand and replicate the work.</p>
 <h2>Learning Journey</h2>
