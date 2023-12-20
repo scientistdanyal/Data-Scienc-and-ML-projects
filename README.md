@@ -20,7 +20,7 @@
     </ul>
     <p>Each project comes with its own dedicated directory, containing code, data, and documentation to help you understand and replicate the work.</p>
 <h2>Learning Journey</h2>
-    <p>I believe in sharing knowledge and learning from others. Throughout my journey, I've documented my learning process, including tutorials, articles, and notes. You can find these in the <a href="/learning-journey">Learning Journey</a> directory. I encourage you to explore and engage with the resources I've collected.</p>
+    <p>I believe in sharing knowledge and learning from others. Throughout my journey, I've documented my learning process, including tutorials, articles, and notes. You can find these in the <a href="https://github.com/yalgar0/Data-Scienc-and-ML-projects">Learning Journey</a> directory. I encourage you to explore and engage with the resources I've collected.</p>
  <h2>Contributing</h2>
     <p>If you have feedback, or suggestions, or are interested in collaborating on a project, please feel free to open an issue or submit a pull request. I'm always open to learning from others and growing in the field of data science and machine learning.</p>
 <p>Thank you for visiting my Data Science and Machine Learning repository, and I hope you find the content here both informative and inspiring. Happy learning and exploring!</p>
